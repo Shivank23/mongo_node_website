@@ -1,0 +1,239 @@
+@import url("https://fonts.googleapis.com/css2?family=Poiret+One&display=swap");
+
+* {
+  font-family: "Poiret One", cursive;
+  font-weight: bold;
+}
+
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+li,
+p,
+a {
+  font-size: 1.6rem;
+}
+
+h1 {
+  font-size: 5rem;
+  text-shadow: 5px 4px 9px rgba(0, 0, 0, 0.26);
+
+  
+}
+
+h2 {
+  font-size: 4rem;
+  color:#5222d0;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 3rem;
+}
+
+.row {
+  margin: 0;
+}
+
+.navbar-style {
+  background-color: #f8f9fa;
+  box-shadow: 2px 4px 13px 1px rgba(8, 8, 8, 0.04);
+}
+
+#logo {
+  display: initial;
+  font-weight: 600;
+  font-size: 3.5rem;
+  letter-spacing: 1px;
+  text-transform: capitalize;
+  color: #fd5c63;
+  text-shadow: 2px 5px 3px rgba(0, 0, 0, 0.06);
+  padding: 0;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #525252;
+  text-transform: capitalize;
+  letter-spacing: 0.1rem;
+  padding-left: 1rem;
+  font-size: 1.9rem;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #fd5c63;
+}
+
+/* our hero sections  */
+.abt_heading{
+  font-weight:bold;
+  font-size: 5rem;
+  color: #fd5c63;
+}
+.abt-section{
+  background-color:whitesmoke
+}
+.about_para{
+  font-size: 2rem;
+  letter-spacing: 4px;
+}
+.hero-text h1 {
+  font-size: 5.5rem;
+  line-height: 1.5;
+  text-shadow: 5px 4px 11px rgba(0, 0, 0, 0.26);
+  letter-spacing: 1px;
+  color: #2f2f2f;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.hero-text h1:nth-child(2) {
+  font-weight: bold;
+  color: #5222d0;
+}
+
+.hero-text p,
+.our-services p,
+label {
+  font-size: 1.7rem;
+  letter-spacing: 0.2rem;
+  color: #777676;
+  text-transform: capitalize;
+  margin-top: 1.5rem;
+  margin-bottom: 5rem;
+}
+
+.hero-text p span {
+  font-weight: bold;
+  color: #000;
+}
+
+.btn-style {
+  padding: 12px 25px;
+  border: none;
+  color: #fff;
+  font-size: 15px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border: 2px solid #fff;
+  background: #ec615b;
+  -webkit-transition: 0.5s all;
+  -moz-transition: 0.5s all;
+  -o-transition: 0.5s all;
+  -ms-transition: 0.5s all;
+  transition: 0.5s all;
+}
+
+/* about us style starts  */
+.card{
+  margin-top: 20px !important;
+  box-shadow: 0 10px 20px -6px black;
+
+}
+
+.about-style {
+  margin: 10rem 0;
+}
+
+.about-style .main-heading,
+.service-style .main-heading,
+.contact-style .main-heading {
+  font-size: 5rem;
+  color: #fd5c63;
+  letter-spacing: 1px;
+  font-weight: bold;
+}
+
+.about-style .sub-heading,
+.service-style .sub-heading,
+.contact-style .sub-heading {
+  font-size: 3rem;
+  letter-spacing: 3px;
+  line-height: 2;
+  color: #333;
+  font-weight: 500;
+}
+
+/* our services style starts  */
+.card-title{
+  font-weight: bolder;
+  text-transform: capitalize;
+  text-align: center;
+  font-size:25px  !important;
+}
+
+.map{
+  width:97vw !important;}
+  /* contact us starts here  */
+
+.input{
+  font-size: 100px;
+  font-weight: bold;
+}
+
+
+.box{
+  font-size:20px;
+  margin-bottom: 0% !important;
+  
+}.form_button{
+  width:100px;
+  height:40px;
+  box-shadow: 4 5 0 10 black;
+  text-transform: capitalize;
+  font-size: 25px;
+  text-align: center;
+  font-weight: bold;
+}
+.form-check-label{
+  margin-top: 20px;
+  padding:17px;
+}
+input{
+  width:60px;
+  height:40px;
+  margin-top: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
